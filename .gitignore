@@ -1,0 +1,5 @@
+*.ignore.*
+.vs
+.idea
+.ipynb_checkpoints
+arx
